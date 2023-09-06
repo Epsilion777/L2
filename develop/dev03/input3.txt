@@ -1,0 +1,5 @@
+Apple 5 33
+Orange 8 17
+Lemon 0 28
+Banana 10 -100
+Lemon 0 28

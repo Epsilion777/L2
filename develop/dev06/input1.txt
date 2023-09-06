@@ -1,0 +1,5 @@
+Name,Count,Price
+Banana,200,100
+Orange,100,150
+Lemon,1000,20
+Potato,5000,5

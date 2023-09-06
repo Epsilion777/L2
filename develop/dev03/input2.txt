@@ -1,0 +1,4 @@
+Apple 5
+Orange 8
+Lemon 0
+Banana 10
